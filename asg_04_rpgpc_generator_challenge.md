@@ -30,7 +30,7 @@ While you're creating your character, you'll also need to determine his or her _
 
 Your might get to add a small number to your dice sum based on your race as well.
 
-The number you get for each ability score will determine its _ability modifier_. If you roll a high sum, you'll get a positive modifier ranging from +1 to +4. If you roll a low sum, you'll get a negative modifier ranging from -1 to -4. You use these modifiers over the course of the game, so they're kinda important. Look at the the _Ability Scores and Modifiers_ table on page 7 of the  [D&D Player's Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf) to see how the ability scores and ability modifiers are related. 
+The number you get for each ability score will determine its _ability modifier_. If you roll a high sum, you'll get a positive modifier ranging from +1 to +5. If you roll a low sum, you'll get a negative modifier ranging from -1 to -4. You use these modifiers over the course of the game, so they're kinda important. Look at the the _Ability Scores and Modifiers_ table on page 7 of the  [D&D Player's Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf) to see how the ability scores and ability modifiers are related. 
 
 For this challenge, we'll deal with the **dexterity** ability - it represents how nimble your character is. A character with high dexterity can dodge things (like arrows or swords being swung at their head), can run across a tightrope like a freaking cat, and are great at hitting things with bows and the like.
 
